@@ -1,10 +1,10 @@
 /*
-//	Made with by Marcus Bizal (https://github.com/marcbizal)
-//      Edited my George P. & Kyle J. (https://totobird.cf/)
-//	JS Backup https://www.gnet27.ml/files/backups/terminal/js/jscript.txt
-//      Backup last edited on 12/19/18
+//	Original code by Marcus Bizal
+//	Edited by George P. & Kyle J.
+//  Backup JS http://bit.ly/2Cn4QBI
+*/
 
-var audio = new Audio('https://s10.youtubemp3api.com/@download/251-5c1a68eef00db-7160000-179-320-webm-2617598/mp3/8iDFTEFkUEY/Meek%2BMill%2B-%2BGoing%2BBad%2B%255BClean%255D%2BFeat%2B-%2BDrake.mp3');
+var audio = new Audio('https://www.gnet27.ml/files/terminal/audio/Going%20bad.mp3');
 var played = "false"
 
 $(document).ready(function() {
@@ -50,6 +50,12 @@ $(document).ready(function() {
 				window.close()
 		}
 	
+	function contact() {
+				$(document).ready(function() {
+    $("#emailLnk").attr('href',"mailto:gnethyper@gmail.com");
+});
+		}
+	
 	function dns_help() {
 				terminal.append("git/frm | cname\n");
 		}
@@ -87,6 +93,9 @@ $(document).ready(function() {
 				}, {
 					"name": "kill",
 						"function": kill
+				}, {
+					"name": "contact",
+						"function": contact
 				}, {
 					"name": "dir",
 						"function": dir
