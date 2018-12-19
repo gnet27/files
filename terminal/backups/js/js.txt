@@ -1,8 +1,8 @@
 /*
-//	Made with by Marcus Bizal
-//  Edited my George P. & Kyle J. (https://totobird.cf/)
+//	Made with by Marcus Bizal (https://github.com/marcbizal)
+//      Edited my George P. & Kyle J. (https://totobird.cf/)
 //	JS Backup https://www.gnet27.ml/files/backups/terminal/js/jscript.txt
-//  Backup last edited on 12/19/18
+//      Backup last edited on 12/19/18
 
 var audio = new Audio('https://s10.youtubemp3api.com/@download/251-5c1a68eef00db-7160000-179-320-webm-2617598/mp3/8iDFTEFkUEY/Meek%2BMill%2B-%2BGoing%2BBad%2B%255BClean%255D%2BFeat%2B-%2BDrake.mp3');
 var played = "false"
