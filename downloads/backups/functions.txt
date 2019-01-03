@@ -1,0 +1,10 @@
+Download a file on click
+-----------------------------
+HTML= <button type="button" class="dl-download" onclick="dwnld()">Download</button>
+</div>
+
+JS= function dwnld() {
+  location.replace("https://www.gnet27.ml/files/test/archive.zip")
+}
+
+More info= https://codepen.io/gnet27/pen/GPQjyK
