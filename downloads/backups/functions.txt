@@ -6,5 +6,3 @@ HTML= <button type="button" class="dl-download" onclick="dwnld()">Download</butt
 JS= function dwnld() {
   location.replace("https://www.gnet27.ml/files/test/archive.zip")
 }
-
-More info= https://codepen.io/gnet27/pen/GPQjyK
