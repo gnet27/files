@@ -1,0 +1,2 @@
+function dir() {			window.open('https://github.com/gnet27?tab=repositories');
+		}
