@@ -1,7 +1,7 @@
 /*
 //	Original code by Marcus Bizal
 //	Edited by George P. & Kyle J.
-//  Backup JS http://bit.ly/2Cn4QBI
+//      JS Privte
 */
 
 var audio = new Audio('https://www.gnet27.ml/files/terminal/audio/Going%20bad.mp3');
