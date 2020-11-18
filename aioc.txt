@@ -1,0 +1,25 @@
+**Nike Dunk Low Cactus Plant Flea Market Pure Platinum Release Instructions**
+
+__Release Date__: **Wednesday, November 18th 2020**
+
+✅ **SHOPIFY**
+
+**MENS** (Copy paste the entire list)
+__Positive Keywords__: `dunk&low&cactus&flea,dunk&low&cpfm,CZ2670&001`
+
+__USA SITE RELEASES__ 🇺🇸: 
+**CACTUS PLANT FLEA MARKET** / Random Time (Maybe 12 PM EST) / Use Boost Mode 
+
+__Delays__
+- Set tasks delays! Have some tasks with lower delays (3500-4000 ms and/or **lower**) and few others with higher (4000-4500 ms and/or **higher**).
+
+__Shipping Rate__
+- Leave blank for this release
+
+__Release Tips__
+- Start tasks `~15-30 seconds` before drop as password page is up.
+- **If __not__ using a server, run at least 1 task __without__ any proxies by selecting "No Proxy List". **
+- It is recommended **NOT** run more than 5-10 tasks when asked to use __Boost__ mode as you will be required to solve lots of CAPTCHA's.
+
+⚠️ **For full Shopify __setup guide__, check** <#644487166063542282>  ⚠️
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
